@@ -1,0 +1,9 @@
+com\iavtar\productservice\ProductServiceApplication.class
+com\iavtar\productservice\service\ProductServiceImpl.class
+com\iavtar\productservice\security\SecurityConfig.class
+com\iavtar\productservice\entity\Product.class
+com\iavtar\productservice\repository\ProductRepository.class
+com\iavtar\productservice\dto\response\ServiceResponse.class
+com\iavtar\productservice\service\ProductService.class
+com\iavtar\productservice\controller\AdminController.class
+com\iavtar\productservice\controller\WebController.class
