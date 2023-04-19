@@ -1,0 +1,15 @@
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\request\dto\Address.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\response\dto\ServiceResponse.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\entity\User.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\service\UserServiceImpl.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\request\dto\UserInfoRequest.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\response\dto\Address.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\repository\UserRepository.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\response\dto\UserInfoResponse.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\security\SecurityConfig.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\request\dto\CreateUpdateAddressRequest.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\request\dto\CreateUserRequest.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\entity\Address.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\UserServiceApplication.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\controller\UserController.java
+C:\Users\Shravya U\Desktop\ECommerce-Microservices-Java-SpringBoot-master\ECommerce-Microservices-Java-SpringBoot-master\user-service\src\main\java\com\iavtar\userservice\service\UserService.java

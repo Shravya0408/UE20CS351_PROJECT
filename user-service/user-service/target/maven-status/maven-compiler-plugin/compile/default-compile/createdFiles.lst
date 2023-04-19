@@ -1,0 +1,15 @@
+com\iavtar\userservice\service\UserService.class
+com\iavtar\userservice\controller\UserController.class
+com\iavtar\userservice\security\SecurityConfig.class
+com\iavtar\userservice\entity\Address.class
+com\iavtar\userservice\request\dto\UserInfoRequest.class
+com\iavtar\userservice\UserServiceApplication.class
+com\iavtar\userservice\response\dto\ServiceResponse.class
+com\iavtar\userservice\repository\UserRepository.class
+com\iavtar\userservice\request\dto\Address.class
+com\iavtar\userservice\response\dto\UserInfoResponse.class
+com\iavtar\userservice\request\dto\CreateUserRequest.class
+com\iavtar\userservice\entity\User.class
+com\iavtar\userservice\request\dto\CreateUpdateAddressRequest.class
+com\iavtar\userservice\response\dto\Address.class
+com\iavtar\userservice\service\UserServiceImpl.class
