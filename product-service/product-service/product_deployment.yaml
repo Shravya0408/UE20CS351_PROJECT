@@ -11,7 +11,7 @@ spec:
     app: product-service
   ports:
     - protocol: TCP
-      port: 8020
+      port: 8022
       name: http
 
 ---
@@ -31,12 +31,6 @@ spec:
     spec:
       containers:
         - name: product-service
-          image: danielbryantuk/djproduct-service:latest
+          image: shravyau/product-service:latest
           ports:
-            - containerPort: 8020
-          livenessProbe:
-            httpGet:
-              path: /healthcheck
-              port: 8025
-            initialDelaySeconds: 30
-            timeoutSeconds: 1
+            - containerPort: 8022
